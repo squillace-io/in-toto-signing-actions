@@ -41,7 +41,10 @@ Direct:
 - squillace (Microsoft)
 - Brian Clark (GH)
 - GH Marketplace??
-- GH sponsors??
+- GH Sponsors??
+- GH Repos
+- GH Packages
+- GH Container registry
 - GH Dev Evangelism
 - MSFT Cloud Dev Advocates
 
